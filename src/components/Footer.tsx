@@ -76,7 +76,7 @@ const Footer: React.FC = () => {
     <FooterContainer>
       <div className="container">
         <FooterContent>
-          <FooterLogo>Jay Joshina's</FooterLogo>
+          <FooterLogo>Jay Joshina</FooterLogo>
           <FooterText>
             B.Tech student in Energy Science and Engineering at IIT Bombay, with a minor in Computer Science 
             and AI/ML. Passionate about machine learning, problem-solving, and creating impactful solutions.
